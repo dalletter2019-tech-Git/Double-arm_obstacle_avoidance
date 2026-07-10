@@ -1,9 +1,0 @@
-<library path="dual_arm_alm_cg_planner_1">
-  <class name="dual_arm_alm_cg_planner_1/DualArmAlmCgPlannerManager"
-         type="dual_arm_alm_cg_planner_1::DualArmAlmCgPlannerManager"
-         base_class_type="planning_interface::PlannerManager">
-    <description>
-      Dual-arm collision avoidance planner using ALM + CG-FR inner solver.
-    </description>
-  </class>
-</library>
